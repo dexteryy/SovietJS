@@ -19,10 +19,12 @@ title: SovietJS
 
 ### Get the code
 
-* [Download on Github](https://github.com/dexteryy/SovietJS/blob/master/soviet.js)
-* Add to your project as new dependency:
-    * via [istatic](http://ozjs.org/istatic)
-    * via [volo](https://github.com/volojs/volo)
+Add to your project as new dependency
+
+* via [bower](http://bower.io/) - `bower install soviet`
+* via [istatic](http://ozjs.org/istatic)
+
+Or [download directly from Github](https://github.com/dexteryy/SovietJS/blob/master/soviet.js)
 
 ## Dependencies
 

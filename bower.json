@@ -1,0 +1,20 @@
+{
+    "name": "soviet",
+    "description": "Standalone UI event delegate implementation",
+    "version": "1.0.0",
+    "main": "soviet.js",
+    "dependencies": {
+        "dollar": "~1.2.1",
+        "mo": "~1.5.2"
+    },
+    "ignore": [
+        "**/.*",
+        "dest",
+        "npmpackage",
+        "node_modules",
+        "components",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}

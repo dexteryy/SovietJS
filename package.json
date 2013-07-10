@@ -1,6 +1,6 @@
 {
-    "name": "SovietJS",
-    "description": "",
+    "name": "soviet",
+    "description": "Standalone UI event delegate implementation",
     "homepage": "https://github.com/dexteryy/SovietJS",
     "author": {
         "name": "dexteryy",
